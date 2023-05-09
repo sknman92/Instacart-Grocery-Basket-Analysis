@@ -4,7 +4,7 @@
 This portfolio includes Python code and final deliverables that I created while completing CareerFoundry's Data Analytics course between 2022 and 2023. The project involved conducting initial data and exploratory analysis on open-source datasets from Instacart, an online grocery store, to address key business questions. The final deliverable was a report encompassing population flow, analysis methodology, and recommendations for Instacart stakeholders.
 
 ## UPLOADS
-The uploads comprise several Jupyter notebooks containing Python code used for data and exploratory analysis, as well as the creation of visuals such as scatterplots, histograms, and bar charts.
+The uploads comprise several Jupyter notebooks containing Python code used for data and exploratory analysis, as well as the creation of visuals such as scatterplots, histograms, and bar charts. The final excel report is also attached.
 
 ## DATA
 The dataset used for this project combines real Instacart data from 2017 with data created by CareerFoundry specifically for this project. Various datasets were cleaned and merged to form a final dataset consisting of over 30 million rows. The comprehensive dataset includes information on customers, transactions, and products.
