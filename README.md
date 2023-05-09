@@ -8,4 +8,4 @@ I performed initial data and exploratory analysis of open-source data sets from 
 Uploads include several Jupyter notebooks of python codes that I used to conduct data and exploratory analysis and create visuals, including scatterplots, histograms, and bar charts...
 
 ## DATA
-The data set used for this project is combines real Instacart data from 2017 and data created by CareerFoundry for the purposes of this project. Various datasets were cleaned and merged to create a final dataset that consists of 30m+ rows. The final data set includes details on customers, transactions, and products. 
+The data set used for this project combines real Instacart data from 2017 and data created by CareerFoundry for the purposes of this project. Various datasets were cleaned and merged to create a final dataset that consists of 30m+ rows. The final dataset includes details on customers, transactions, and products. 
